@@ -77,12 +77,12 @@ h2{
 
 @media (min-width: 1080px) {
   body {
-    height: 40rem;
+    height: 50rem;
   }
 
   .card {
     height: 25rem;
-    width: 60rem;
+    width: 65rem;
     display: flex;
     flex-direction: row-reverse;
   }
