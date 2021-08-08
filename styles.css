@@ -17,7 +17,7 @@ html {
     font-size: 15px;
 }
 
-body {
+main {
     background-color: var(--very-dark-blue);
     font-family: 'Inter', sans-serif;
     display: flex;
@@ -76,7 +76,7 @@ h2{
 }
 
 @media (min-width: 1080px) {
-  body {
+  main {
     height: 50rem;
   }
 
